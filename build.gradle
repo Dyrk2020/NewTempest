@@ -10,7 +10,7 @@ plugins {
 apply plugin: 'org.spongepowered.mixin'
 
 version = '0.0.1-1.19.2'
-group = 'net.prebuildtempest.create_new_tempest'
+group = 'net.dyrk2020.create_new_tempest'
 
 base {
     archivesName = 'create_new_tempest'
